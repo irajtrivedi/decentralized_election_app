@@ -1,0 +1,4 @@
+steps:
+1. git Bash
+2. truffle migrate --reset
+3. 
